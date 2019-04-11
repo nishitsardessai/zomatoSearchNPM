@@ -1,0 +1,243 @@
+Sr No, Restaurant Name, Address, average_cost_for_two, Ratings
+"Silver Leaf","Centurion Hotel, Opposite Akashwani, Next to SSC Board, Shivaji Nagar, Pune",1200,"3.2"
+"Cafe Coffee Day","Survey 813/A, Pradip Chambers, Bhandarkar Road, Shivaji Nagar, Pune",700,"3.2"
+"Swara Family Restaurant","Opposite To Bal Gangadar Mandir, Shivaji Nagar, Pune",600,"3.2"
+"FoodSway Caffe Express","Shop 09, Patrkar Nagar, 270 MSFC Compounds, SB Road Pune, Shivaji Nagar, Pune",300,"3.2"
+"Hotel Satkar","ST Stand, Shivaji Nagar, Pune",500,"3.2"
+"SG-TastyBites","1206, Shirole Road, Opposite Sambhaji Garden 2nd Gate, Shivaji Nagar, Pune",150,"3.2"
+"Zen","1194/1, 29, Madhu Vrundavan Society, Morden College Road, Shivaji Nagar, Pune",1200,"3.2"
+"Kunjavan - Gandharv Residency","1291, Behind Gandharv Restaurant, Off JM Road, Shivaji Nagar, Pune",800,"3.2"
+"Hotel Sandeep","Railway Station Road, Opposite ST Stand, Narveer Tanaji Wadi, Shivaji Nagar, Pune",500,"3.1"
+"The Cafe Corner","Opposite Hero Honda Showroom, Wakdewadi, Shivaji Nagar, Pune",300,"3.1"
+"I-POT Biryani","15/A Mumbai - Pune Highway, Wakdewadi, Shivaji Nagar, Pune",450,"3.1"
+"Ganesh Bhel","Opposite Fergusson College Main Road, F C Road Shivaji Nagar, Pune",300,"3.1"
+"Olympia Cafe","1342/43, Near Modern Cafe, Shivaji Nagar, Pune",400,"3.1"
+"The AV Foodmall","Shop 3, Bhosale Terrace, Behind Ghole Road Ward Office, Shivaji Nagar, Pune",300,"3.1"
+"Annapurna","25/3, Satpute Bhavan, Shivaji Nagar, Pune",500,"3.1"
+"Burgizza","Central Mall, Shivaji Nagar, Pune",350,"3.0"
+"Hotel Neeta","Opposite Shivaji Nagar S.T Stand, Shivaji Nagar, Pune",400,"3.0"
+"Capresso Coffee","5th Floor, Pune Central Mall, Ganeshkhind Road",300,"2.9"
+"CAD (M) CAD (B)","The E-Square Hotel, Food Square, Level 2, Pune University Road, Shivaji Nagar, Pune",400,"2.9"
+"The Royal Cafe & Fast Food (Arizona)","Ranjai Bunglow, Opposite ICICI Bank, Ghole Road, Shivaji Nagar, Pune",250,"2.9"
+"Oriental Fusion Restaurant - Ramee Grand Hotel","Ramee Grand Hotel, Survey 587/3, Apte Road, Shivaji Nagar, Pune",1100,"3.9"
+"R' ADDA","Ramee Grand Hotel, 587/3, Apte Road, Shivaji Nagar, Pune",1200,"3.9"
+"The Beer Cafe","Survey 430A/1, Unit 18, Second Floor, The Pavillion, Senapati Bapat Road, Shivaji Nagar, Pune",1500,"3.9"
+"Tea Villa Cafe","FC Annex Building, Shirole Road, Behind Starbucks, FC Road, Shivajinagar",1000,"3.9"
+"Corn Club","6, Nirankar Apartment, 1133/5, FC Road, Pune",300,"3.9"
+"Cafe Peter","Survey 1206/B, Apte Road, Shivaji Nagar, Pune",800,"3.8"
+"Casablanca - Pride Hotel","Pride Hotel, University Road, Shivaji Nagar, Pune",1200,"3.8"
+"Rahul Restaurant & Bar","70 MM Rahul Compound, Near Rahul Theater, Shivaji Nagar, Pune",1000,"3.8"
+"It's Mirchi - Ramee Grand Hotel","Ramee Grand Hotel, 587/3, Apte Road, Shivaji Nagar, Pune",1800,"3.8"
+"Sudama Bar & Restaurant","365/11, Shivaji Nagar, Pune",1000,"3.8"
+"The Travel Cafe","Plot 1, CTS 405/410, Chaitanya Housing Society, SB Road, Opposite Sai Capital, Shivaji Nagar, Pune",300,"3.8"
+"The 1st Floor","Survey 1133/2, FC Road, Pune",600,"3.8"
+"The Burger Barn Cafe","393, Sanas Corner, Lane 5, Off South Main Road, Koregaon Park, Pune",1200,"3.8"
+"Vrudheshwar Pure Veg","Vrudheshwar Ghat, Opposite Congress Bhavan, Shivaji Nagar, Pune",600,"3.7"
+"Surya Hotel - Deccan Rendezvous","Deccan Rendezvous, 1202/3, Apte Road, Shivaji Nagar, Pune",1200,"3.7"
+"Joshi Wadewale","1281, Off Jangali Maharaj Road, Shivaji Nagar, Pune",200,"3.7"
+"Arizona Restaurant","Ranjai Bunglow, Opposite ICICI Bank, Ghole Road, Shivaji Nagar, Pune",600,"3.7"
+"McDonald's","CTS 2687B, Unit 201, Kakade Center Port, Bhamburda, Shivaji Nagar, Pune",500,"3.7"
+"Nitin's Canteen","All India Shri Shivaji Memorial Society, Near Shivajinagar Court, Opposite Pasalkar Gas Agency, Shivaji Nagar, Pune",150,"3.7"
+"Hotel Swagat","Opposite ST Bus Stop",400,"3.7"
+"FC Road Social","Unit 101, 1st Floor & Mezzanine Floor, Cello Platina, C.T.S. 1183, F.C. Road, Shivaji Nagar, Pune",1500,"4.0"
+"The Leaf Kitchen","Yugay Plaza, Congress House Road, Opposite Balgandharv, Shivaji Nagar, Pune",1600,"4.0"
+"Cafe Peter","Survey 1206/B, Apte Road, Shivaji Nagar, Pune",800,"3.8"
+"World of Veg","7th Floor, Ramsukh House, Ganeshkhind Road, Near Sancheti Hospital, Shivaji Nagar, Pune",1500,"4.1"
+"The Burger Barn Cafe","Opposite ICICI Bank, Ghole Road, Shivaji Nagar, Pune",800,"3.9"
+"Bamboo House","Survey 364/65/3, Behind Modern Cafe, Off JM Road",1500,"3.6"
+"J1-जेवण","Survey 1202/5, Ghole Road, Near MJM Hospital, Shivaji Nagar, Pune",850,"4.1"
+"South House","1203/4, Ghole Road, Near Balgandharv Chowk, Shivaji Nagar, Pune",700,"4.0"
+"Little Italy","465, Ganeshkhind, Next To Pune Central Mall, Off Model Colony, Shivaji Nagar, Pune",1400,"4.4"
+"Pop Tate's","Unit 3, Kakade Bizz Icon, Ganeshkhind Road, Next to E-Square Multiplex, Shivaji Nagar, Pune",1500,"4.2"
+"Modern Cafe","364/65 Shivajinagar Pune",550,"3.4"
+"Oriental Fusion Restaurant - Ramee Grand Hotel","Ramee Grand Hotel, Survey 587/3, Apte Road, Shivaji Nagar, Pune",1100,"3.9"
+"Spiceklub","465, Ganesh Khand Road, Next to Central Mall, Mall 2, Shivaji Nagar, Pune",1500,"4.3"
+"Rohit Wadewale Food Mall","Opposite AISSMS College, Shivaji Putla Chowk, Shivaji Nagar, Pune",250,"4.0"
+"Santosh Bakery","1202/17, Apte Road, Near JM Road, Shivaji Nagar, Pune",100,"4.4"
+"Vrudheshwar Pure Veg","Vrudheshwar Ghat, Opposite Congress Bhavan, Shivaji Nagar, Pune",600,"3.7"
+"R' ADDA","Ramee Grand Hotel, 587/3, Apte Road, Shivaji Nagar, Pune",1200,"3.9"
+"Sabores European Bistro","Office 10, Pradeep Chambers, Opposite Idea Showroom, Bhandarkar Road, Shivaji Nagar, Pune",1100,"4.0"
+"Puran Da Dhaba - Pride Hotel","Pride Hotel, University Road, Shivaji Nagar, Pune",2100,"4.1"
+"Surya Hotel - Deccan Rendezvous","Deccan Rendezvous, 1202/3, Apte Road, Shivaji Nagar, Pune",1200,"3.7"
+"Chini Mini","Pune Central Mall, Ganeshkhind Road, Shivaji Nagar, Pune",350,"2.9"
+"Hotel Dilip Pure Veg","Pragati Towers, Opposite ST Stand, Shivaji Nagar, Pune",400,"2.9"
+"Oven & Grill's","Food Court, Pune Central Mall",350,"2.9"
+"Cafe Park","Ground Floor, Park Lodge Building, Opposite ST Stand",250,"2.8"
+"Daawat Fun Food","364 & 365/14, JM Road, Behind Bharat Petrol Pump, Pune, Shivaji Nagar, Pune",400,"2.8"
+"Cafe Bollywood","Pune Central Mall, Ganeshkhind Road, Shivaji Nagar, Pune",250,"2.7"
+"Masoli","Near Bhave Gas Agency, Apte Road, Shivaji Nagar, Pune",700,0
+"Spices And Chillies","444, Maankar Building, Shivajinagar Gaonthan, Shivaji Nagar, Pune",400,0
+"Sunrise Snacks","Shop 4, 102/A, behind mangala talkies, Shivaji Nagar, Pune",200,0
+"The Live-In Room Cafe","The Room Fitness & Lifestyle Club, 1st Floor, Kakade Bizz Icon, Next to E-Square, University Road,  Shivaji Nagar, Pune",400,0
+"Shivmalhar Bhurji Centre","P.M.C Deccan Gymkhana, Lakdi Pool, Shivaji Nagar, Pune",200,0
+"Shreenath Bhel And Sandwich Corner","Dhanyaneshwar Paduka Chowk, FC College Road, Shivaji Nagar, Pune",150,0
+"Kekiz The Cake Shop","Shop 3, Sahril Arced, JM Road, Shivaji Nagar, Pune",300,0
+"Hotel Classic","Gate  4, Shivaji Nagar Court, Shivaji Nagar, Pune",400,0
+"Alok Restaurant & Bar","Building 1340, Shivaji Nagar, Pune",550,0
+"Adraq by OYO","364 & 365/14, Off.J.M.Road, Behind Bharat Petrol Pump, Shivaji Nagar, Pune",400,0
+"Juice Buzz","Pune Central, Ganeshkhind Road, Shivaji Nagar, Pune",100,0
+"8een Cafe","250, Gaothan, Near PMC, Shirole Lane, Shivaji Nagar, Pune, Pune",250,0
+"Maharaja Dining Hall","Shop 106 & 107, Pragati Towers, Opposite Bus Stop, Shivaji Nagar, Pune",300,0
+"Aphrodite","Centurion Inn, Shirile Baug, Shivaji Nagar, Pune Ganeshkhind Road, Shivaji Nagar",550,0
+"Annapurna","25/3, Satpute Bhavan, Shivaji Nagar, Pune",500,"3.1"
+"Juice Buzz","Pune Central, Ganeshkhind Road, Shivaji Nagar, Pune",100,0
+"8een Cafe","250, Gaothan, Near PMC, Shirole Lane, Shivaji Nagar, Pune, Pune",250,0
+"Hotel Neeta","Opposite Shivaji Nagar S.T Stand, Shivaji Nagar, Pune",400,"3.0"
+"Maharaja Dining Hall","Shop 106 & 107, Pragati Towers, Opposite Bus Stop, Shivaji Nagar, Pune",300,0
+"Karlo Art Kitchen & Cafe","35/6, Madhav Nivas, Lane 8, Prabhat Road, Off Karve Road, Next To Kohinoor Mangal Karalaya, Deccan Gymkhana, Pune",750,"4.3"
+"Aphrodite","Centurion Inn, Shirile Baug, Shivaji Nagar, Pune Ganeshkhind Road, Shivaji Nagar",550,0
+"Red Panda Chinese","J.M Corner, Next to Jangli Maharaj Mandir, J.M Road, Shivaji Nagar, Pune",300,0
+"The 1st Floor","Survey 1133/2, FC Road, Pune",600,"3.8"
+"O'Biriyani by OYO","364+365/14, Off.J.M.Road, Behind Bharat Petrol Pump, Shivaji Nagar, Pune",500,0
+"The Protein Room","Datta Niwas, Deep Banglow Chowk, Shivaji Nagar, Pune",400,0
+"Om Sai Caterers","Himalaya Estate, Pride Hotel Lane, Shivaji Nagar, Pune",200,0
+"Rich-O-Cream","Senapati Bapat Road, Jawahar Nagar, Shivaji Nagar, Pune",200,0
+"Tea Villa Cafe","FC Annex Building, Shirole Road, Behind Starbucks, FC Road, Shivajinagar",1000,"3.9"
+"Neighbor's Pickle","Old Mumbai- Pune Road, Near Labour Office, Wakdewadi, Near Shivaji Nagar, Pune",250,0
+"Corn Club","6, Nirankar Apartment, 1133/5, FC Road, Pune",300,"3.9"
+"Wagh Bakri Tea Lounge","Shop No. 4 Lower Ground, Amar Business Bay (Westside Building), Fergusson College Road, Opposite Sa, Pune, Pune",500,"4.0"
+"Pavaroti's","1, Surmani Complex, Opposite HDFC Bank, Deep Banglow Chowk, Model Colony, Pune",200,"4.2"
+"Tulsi Snacks Centre","1232, Apte Road, Shivaji Nagar, Pune",100,0
+"Oriental Connexions","The E-Square Hotel, Level 5, 132 A, Pune University, Pune",1200,"4.3"
+"SG-TastyBites","1206, Shirole Road, Opposite Sambhaji Garden 2nd Gate, Shivaji Nagar, Pune",150,"3.2"
+"CAD (M) CAD (B)","The E-Square Hotel, Food Square, Level 2, Pune University Road, Shivaji Nagar, Pune",400,"2.9"
+"I-POT Biryani","15/A Mumbai - Pune Highway, Wakdewadi, Shivaji Nagar, Pune",450,"3.1"
+"Sunrise Snacks","Shop 4, 102/A, behind mangala talkies, Shivaji Nagar, Pune",200,0
+"Daawat Fun Food","364 & 365/14, JM Road, Behind Bharat Petrol Pump, Pune, Shivaji Nagar, Pune",400,"2.8"
+"Zen","1194/1, 29, Madhu Vrundavan Society, Morden College Road, Shivaji Nagar, Pune",1200,"3.2"
+"Burgizza","Central Mall, Shivaji Nagar, Pune",350,"3.0"
+"Kunjavan - Gandharv Residency","1291, Behind Gandharv Restaurant, Off JM Road, Shivaji Nagar, Pune",800,"3.2"
+"The Live-In Room Cafe","The Room Fitness & Lifestyle Club, 1st Floor, Kakade Bizz Icon, Next to E-Square, University Road,  Shivaji Nagar, Pune",400,0
+"Shivmalhar Bhurji Centre","P.M.C Deccan Gymkhana, Lakdi Pool, Shivaji Nagar, Pune",200,0
+"The Royal Cafe & Fast Food (Arizona)","Ranjai Bunglow, Opposite ICICI Bank, Ghole Road, Shivaji Nagar, Pune",250,"2.9"
+"Olympia Cafe","1342/43, Near Modern Cafe, Shivaji Nagar, Pune",400,"3.1"
+"Chini Mini","Pune Central Mall, Ganeshkhind Road, Shivaji Nagar, Pune",350,"2.9"
+"Hotel Dilip Pure Veg","Pragati Towers, Opposite ST Stand, Shivaji Nagar, Pune",400,"2.9"
+"Kekiz The Cake Shop","Shop 3, Sahril Arced, JM Road, Shivaji Nagar, Pune",300,0
+"The AV Foodmall","Shop 3, Bhosale Terrace, Behind Ghole Road Ward Office, Shivaji Nagar, Pune",300,"3.1"
+"Oven & Grill's","Food Court, Pune Central Mall",350,"2.9"
+"Hotel Classic","Gate  4, Shivaji Nagar Court, Shivaji Nagar, Pune",400,0
+"Alok Restaurant & Bar","Building 1340, Shivaji Nagar, Pune",550,0
+"Adraq by OYO","364 & 365/14, Off.J.M.Road, Behind Bharat Petrol Pump, Shivaji Nagar, Pune",400,0
+"Flavour Stones","Shop 3, Sulaxmi Chambers, Shivaji Nagar, Pune",400,0
+"Wat-a-Biryani","3rd Floor Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",400,0
+"The Travel Cafe","Plot 1, CTS 405/410, Chaitanya Housing Society, SB Road, Opposite Sai Capital, Shivaji Nagar, Pune",300,"3.8"
+"Tea Post","JM Road, Near Aurelia 1/2 3, Ground Floor, Lokmat Bhavan, Shivaji Nagar, Pune",300,"3.4"
+"FoodSway Caffe Express","Shop 09, Patrkar Nagar, 270 MSFC Compounds, SB Road Pune, Shivaji Nagar, Pune",300,"3.2"
+"Capresso Coffee","5th Floor, Pune Central Mall, Ganeshkhind Road",300,"2.9"
+"The Cafe Corner","Opposite Hero Honda Showroom, Wakdewadi, Shivaji Nagar, Pune",300,"3.1"
+"Ganesh Bhel","Opposite Fergusson College Main Road, F C Road Shivaji Nagar, Pune",300,"3.1"
+"Pizza.in","Shivaji Nagar, Pune",300,0
+"Monginis","122, Shanti plaza, Ferguson College Road, Shivajinagar, Deccan Gymkhana, Pune",300,0
+"CAD (M) CAD(B)","364/365, Near Bank Of Maharashtra, Shivaji Nagar, Pune",250,"3.6"
+"Casablanca - Pride Hotel","Pride Hotel, University Road, Shivaji Nagar, Pune",1200,"3.8"
+"Fountain Family Rest O Bar","Survey 364/65, Shivaji Road, Shivaji Nagar Pune",800,"3.6"
+"Rahul Restaurant & Bar","70 MM Rahul Compound, Near Rahul Theater, Shivaji Nagar, Pune",1000,"3.8"
+"It's Mirchi - Ramee Grand Hotel","Ramee Grand Hotel, 587/3, Apte Road, Shivaji Nagar, Pune",1800,"3.8"
+"The Beer Cafe","Survey 430A/1, Unit 18, Second Floor, The Pavillion, Senapati Bapat Road, Shivaji Nagar, Pune",1500,"3.9"
+"Sudama Bar & Restaurant","365/11, Shivaji Nagar, Pune",1000,"3.8"
+"Joshi Wadewale","1281, Off Jangali Maharaj Road, Shivaji Nagar, Pune",200,"3.7"
+"Arizona Restaurant","Ranjai Bunglow, Opposite ICICI Bank, Ghole Road, Shivaji Nagar, Pune",600,"3.7"
+"The Travel Cafe","Plot 1, CTS 405/410, Chaitanya Housing Society, SB Road, Opposite Sai Capital, Shivaji Nagar, Pune",300,"3.8"
+"Ooolala: All Day Cafe & Bar","Unit 3, Kakade Bizz Icon, Ganeshkhind Road, Next To E Ssuare Multiplex, Shivaji Nagar, Pune",1400,"4.0"
+"Cafe Table Talk","1206/10A, Shirole Road, Opposite Kakade Capital, Shivaji Nagar, Pune",500,"3.6"
+"McDonald's","CTS 2687B, Unit 201, Kakade Center Port, Bhamburda, Shivaji Nagar, Pune",500,"3.7"
+"Ramsar Bakery","Opposite PMC Building, Shivaji Nagar, Pune",200,"3.5"
+"Nitin's Canteen","All India Shri Shivaji Memorial Society, Near Shivajinagar Court, Opposite Pasalkar Gas Agency, Shivaji Nagar, Pune",150,"3.7"
+"Hotel Varanda","Shop 6, Shree Rang House, Opposite Bharat Petrol Pump, Shivaji Nagar, Pune",400,"3.3"
+"The Big O Pizza","Shop 35A And B, Ground Floor, Deccan Tower, Solapur Road, Shivaji Nagar, Pune",500,"3.2"
+"Hotel Swagat","Opposite ST Bus Stop",400,"3.7"
+"Hotel Samrat","Opposite Bharat Petroleum Petrol Pump, Bombay Road, Wakadewadi, Shivaji Nagar, Pune",500,"3.6"
+"Rohit Wadewale","Opposite ST Stand, Shivaji Nagar, Pune",200,"3.5"
+"Namaskaar Resto Bar","1202/6, Opposite Ghole Road, PMC Ward office, Shivaji Nagar, Pune",900,"3.7"
+"British Brewing Company","The Pavilion, Shivajinagar, Senapati Bapat Road, Pune",1600,"3.7"
+"CAD (M) CAD(B)","364/365, Near Bank Of Maharashtra, Shivaji Nagar, Pune",250,"3.6"
+"Ganesh Bhel","Ganesh Bhel, Opposite Fergusson College main gate, F.C Road, Shivajinagar, Pune",550,"3.6"
+"Laddro Cafe","Shop 2, Vrundavinam Society, 1094 Deep Bunglow Chowk, Model Colony, Near DSK Showroom, Shivaji Nagar, Pune",400,"3.5"
+"Baggu's Dosa House","Shop 3, Sulaxmi Chamber, Dnyaneshwar Paduka Chowk, Shivaji Nagar, Pune",200,"3.5"
+"Tea Post","JM Road, Near Aurelia 1/2 3, Ground Floor, Lokmat Bhavan, Shivaji Nagar, Pune",300,"3.4"
+"WS Bakers","Shop No-5, Mantri Co-Op, Hsg Soc, Narveer Tanaji, Near Sakhar Sankul, Narveer Tanaji Wadi, Pune",200,"3.4"
+"Cafe Lucky","110/17, Shivaji Nagar, Pune",250,"3.3"
+"Hotel Sagar","Shop 7, Opposite S.T. Stand, Shivaji Nagar, Pune",500,"3.3"
+"Hotel Trupti","Ground Floor, Park Lodge Building, Opposite ST Stand, Shivaji Nagar, Pune",400,"3.3"
+"Cafe Park","Ground Floor, Park Lodge Building, Opposite ST Stand",250,"2.8"
+"Cafe Bollywood","Pune Central Mall, Ganeshkhind Road, Shivaji Nagar, Pune",250,"2.7"
+"Masoli","Near Bhave Gas Agency, Apte Road, Shivaji Nagar, Pune",700,0
+"Spices And Chillies","444, Maankar Building, Shivajinagar Gaonthan, Shivaji Nagar, Pune",400,0
+"Shreenath Bhel And Sandwich Corner","Dhanyaneshwar Paduka Chowk, FC College Road, Shivaji Nagar, Pune",150,0
+"Laddro Cafe","Shop 2, Vrundavinam Society, 1094 Deep Bunglow Chowk, Model Colony, Near DSK Showroom, Shivaji Nagar, Pune",400,"3.5"
+"Hotel Trupti","Ground Floor, Park Lodge Building, Opposite ST Stand, Shivaji Nagar, Pune",400,"3.3"
+"Spices And Chillies","444, Maankar Building, Shivajinagar Gaonthan, Shivaji Nagar, Pune",400,0
+"Jagdamba Biryani House","Geetanjali Apartment, KB Joshi Path, Narveer Tanaji Wadi, Shivajinagar, Pune",400,0
+"Hotel Hindavi Swaraj","404/B, Shivaji Nagar, Pune",400,0
+"Cafe Spicy Sugar","Shop 1, Ground Floor, Kunal Complex, Near Lenskart, Jangali Maharaj Road, Shivaji Nagar, Pune",400,0
+"Swara Family Restaurant","Opposite To Bal Gangadar Mandir, Shivaji Nagar, Pune",600,"3.2"
+"Chination","3rd Floor Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",600,0
+"Navab's","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",600,0
+"Ganesh Bhel","Ganesh Bhel, Opposite Fergusson College main gate, F.C Road, Shivajinagar, Pune",550,"3.6"
+"Nation 52 Kitchens","Pilachi Wadi, Shivaji Nagar, Behind Sai Petra, Shivaji Nagar, Pune",550,0
+"Sethi's","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony Shivaji Nagar, Pune",550,0
+"Hotel Sandeep","Railway Station Road, Opposite ST Stand, Narveer Tanaji Wadi, Shivaji Nagar, Pune",500,"3.1"
+"Hotel Satkar","ST Stand, Shivaji Nagar, Pune",500,"3.2"
+"Hotel Sagar","Shop 7, Opposite S.T. Stand, Shivaji Nagar, Pune",500,"3.3"
+"Swara Family Restaurant","Opposite To Bal Gangadar Mandir, Shivaji Nagar, Pune",600,"3.2"
+"Chination","3rd Floor Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",600,0
+"Navab's","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",600,0
+"Ganesh Bhel","Ganesh Bhel, Opposite Fergusson College main gate, F.C Road, Shivajinagar, Pune",550,"3.6"
+"Nation 52 Kitchens","Pilachi Wadi, Shivaji Nagar, Behind Sai Petra, Shivaji Nagar, Pune",550,0
+"Sethi's","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony Shivaji Nagar, Pune",550,0
+"Hotel Sandeep","Railway Station Road, Opposite ST Stand, Narveer Tanaji Wadi, Shivaji Nagar, Pune",500,"3.1"
+"Hotel Satkar","ST Stand, Shivaji Nagar, Pune",500,"3.2"
+"Hotel Sagar","Shop 7, Opposite S.T. Stand, Shivaji Nagar, Pune",500,"3.3"
+"Laddro Cafe","Shop 2, Vrundavinam Society, 1094 Deep Bunglow Chowk, Model Colony, Near DSK Showroom, Shivaji Nagar, Pune",400,"3.5"
+"Hotel Trupti","Ground Floor, Park Lodge Building, Opposite ST Stand, Shivaji Nagar, Pune",400,"3.3"
+"Spices And Chillies","444, Maankar Building, Shivajinagar Gaonthan, Shivaji Nagar, Pune",400,0
+"Jagdamba Biryani House","Geetanjali Apartment, KB Joshi Path, Narveer Tanaji Wadi, Shivajinagar, Pune",400,0
+"Hotel Hindavi Swaraj","404/B, Shivaji Nagar, Pune",400,0
+"Cafe Spicy Sugar","Shop 1, Ground Floor, Kunal Complex, Near Lenskart, Jangali Maharaj Road, Shivaji Nagar, Pune",400,0
+"Laddro Cafe","Shop 2, Vrundavinam Society, 1094 Deep Bunglow Chowk, Model Colony, Near DSK Showroom, Shivaji Nagar, Pune",400,"3.5"
+"Tea Post","JM Road, Near Aurelia 1/2 3, Ground Floor, Lokmat Bhavan, Shivaji Nagar, Pune",300,"3.4"
+"Silver Leaf","Centurion Hotel, Opposite Akashwani, Next to SSC Board, Shivaji Nagar, Pune",1200,"3.2"
+"WS Bakers","Shop No-5, Mantri Co-Op, Hsg Soc, Narveer Tanaji, Near Sakhar Sankul, Narveer Tanaji Wadi, Pune",200,"3.4"
+"CAD (M) CAD(B)","364/365, Near Bank Of Maharashtra, Shivaji Nagar, Pune",250,"3.6"
+"Hotel Sandeep","Railway Station Road, Opposite ST Stand, Narveer Tanaji Wadi, Shivaji Nagar, Pune",500,"3.1"
+"Cafe Lucky","110/17, Shivaji Nagar, Pune",250,"3.3"
+"Baggu's Dosa House","Shop 3, Sulaxmi Chamber, Dnyaneshwar Paduka Chowk, Shivaji Nagar, Pune",200,"3.5"
+"Cafe Park","Ground Floor, Park Lodge Building, Opposite ST Stand",250,"2.8"
+"Cafe Coffee Day","Survey 813/A, Pradip Chambers, Bhandarkar Road, Shivaji Nagar, Pune",700,"3.2"
+"Swara Family Restaurant","Opposite To Bal Gangadar Mandir, Shivaji Nagar, Pune",600,"3.2"
+"Cafe Bollywood","Pune Central Mall, Ganeshkhind Road, Shivaji Nagar, Pune",250,"2.7"
+"FoodSway Caffe Express","Shop 09, Patrkar Nagar, 270 MSFC Compounds, SB Road Pune, Shivaji Nagar, Pune",300,"3.2"
+"Hotel Satkar","ST Stand, Shivaji Nagar, Pune",500,"3.2"
+"Hotel Sagar","Shop 7, Opposite S.T. Stand, Shivaji Nagar, Pune",500,"3.3"
+"Capresso Coffee","5th Floor, Pune Central Mall, Ganeshkhind Road",300,"2.9"
+"Hotel Trupti","Ground Floor, Park Lodge Building, Opposite ST Stand, Shivaji Nagar, Pune",400,"3.3"
+"Masoli","Near Bhave Gas Agency, Apte Road, Shivaji Nagar, Pune",700,0
+"The Cafe Corner","Opposite Hero Honda Showroom, Wakdewadi, Shivaji Nagar, Pune",300,"3.1"
+"Spices And Chillies","444, Maankar Building, Shivajinagar Gaonthan, Shivaji Nagar, Pune",400,0
+"Ganesh Bhel","Opposite Fergusson College Main Road, F C Road Shivaji Nagar, Pune",300,"3.1"
+"Flavour Stones","Shop 3, Sulaxmi Chambers, Shivaji Nagar, Pune",400,0
+"Wat-a-Biryani","3rd Floor Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",400,0
+"Ganesh Bhel","Opposite Fergusson College Main Road, F C Road Shivaji Nagar, Pune",300,"3.1"
+"Pizza.in","Shivaji Nagar, Pune",300,0
+"Monginis","122, Shanti plaza, Ferguson College Road, Shivajinagar, Deccan Gymkhana, Pune",300,0
+"British Brewing Company","The Pavilion, Shivajinagar, Senapati Bapat Road, Pune",1600,"3.7"
+"Ganesh Bhel","Ganesh Bhel, Opposite Fergusson College main gate, F.C Road, Shivajinagar, Pune",550,"3.6"
+"Hotel Rachana","Shop 10, Oswal Park, Opposite ST Stand, Shivaji Nagar, Pune",800,0
+"Noodle Canteen","Deccan Gymkhana, Pune",700,"4.2"
+"Food Singh","3rd Floor Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",700,0
+"Delhi Food Factory","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",700,0
+"Chawla's 2 Online.com","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",700,0
+"British Brewing Company","The Pavilion, Shivajinagar, Senapati Bapat Road, Pune",1600,"3.7"
+"La Pizzeria","Shop F/B21, Ground Floor, Balewadi High Street Complex, Baner, Pune",1400,"4.0"
+"British Brewing Company","The Pavilion, Shivajinagar, Senapati Bapat Road, Pune",1600,"3.7"
+"La Pizzeria","Shop F/B21, Ground Floor, Balewadi High Street Complex, Baner, Pune",1400,"4.0"
+"Hotel Rachana","Shop 10, Oswal Park, Opposite ST Stand, Shivaji Nagar, Pune",800,0
+"Noodle Canteen","Deccan Gymkhana, Pune",700,"4.2"
+"Food Singh","3rd Floor Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",700,0
+"Delhi Food Factory","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",700,0
+"Chawla's 2 Online.com","3rd Floor, Chinar Heights, Deep Bungalow Chowk, Model Colony, Shivaji Nagar, Pune",700,0
+"Noodle Canteen","Deccan Gymkhana, Pune",700,"4.2"
+"La Pizzeria","Shop F/B21, Ground Floor, Balewadi High Street Complex, Baner, Pune",1400,"4.0"
+"Noodle Canteen","Deccan Gymkhana, Pune",700,"4.2"
+"La Pizzeria","Shop F/B21, Ground Floor, Balewadi High Street Complex, Baner, Pune",1400,"4.0"
